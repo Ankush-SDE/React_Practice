@@ -11,5 +11,6 @@ export default function Form(){
       <input placeholder="Enter full name" type="text" value={fulName} onChange={handleNameChange}/>
       <button>Submit</button>
     </form>
+    
   )
 }

@@ -2,11 +2,12 @@
 import './App.css'
 // import LudoBoard from './LudoBoard';
 // import TodoList from './TodoList';
-import Form from './Form';
+// import Form from './Form';
+import CommentForm from './CommnetsForm';
 function App() {
   return (
   <>
-  <Form/>
+  <CommentForm/>
     </>
   );
 }
